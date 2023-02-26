@@ -1,39 +1,57 @@
 body {
     font-family: 'Oswald', sans-serif;
     font-family: 'Tilt Warp', cursive;
+    back
+}
+
+.top-banner {
+
+    display: flex;
+
 
 }
 
-.orange {
-    color: tomato;
-}
-
-img {
+.pho {
     width: 400px;
-    height: 400px;
-    padding-left: 80px;
+    height: 300px;
+    padding-left: 200px;
 }
-
-.hasan {
-    position: absolute;
-    top: 20px;
-    right: 40px;
-}
-
-
 
 .arif {
-    width: 40%;
+    font-size: 20px;
+    width: 50%;
+    height: 40%%;
+    background-image: url(9150.png_300.png);
+    background-repeat: no-repeat;
+
+    background-size: 200px;
+
+
 }
 
-h1 {
-    font-size: 70px;
+.top-web {
+    display: flex;
+}
+
+.murgi {
+    width: 50%;
 }
 
 .link-button {
     text-decoration: none;
-    color: black;
-    background-color: rgb(13, 54, 221);
+    background-image: linear-gradient(orange, red);
     padding: 10px 20px;
-    border-radius: 5px;
+    color: white;
+}
+
+.orange {
+    color: orangered;
+}
+
+.red {
+    color: rgba(53, 134, 10, 0.934);
+}
+
+.five {
+    font-size: 50px;
 }
