@@ -1,14 +1,39 @@
-body{
+body {
+    font-family: 'Oswald', sans-serif;
     font-family: 'Tilt Warp', cursive;
+
 }
-h1{
-    font-size: 50px;
-    font-weight: 600px;
+
+.orange {
+    color: tomato;
 }
-.orange{
-    color: orange;
+
+img {
+    width: 400px;
+    height: 400px;
+    padding-left: 80px;
 }
-h3{
-    font-weight: 500px;
-    color: rgba(57, 2, 40, 0.568);
+
+.hasan {
+    position: absolute;
+    top: 20px;
+    right: 40px;
+}
+
+
+
+.arif {
+    width: 40%;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+.link-button {
+    text-decoration: none;
+    color: black;
+    background-color: rgb(13, 54, 221);
+    padding: 10px 20px;
+    border-radius: 5px;
 }
