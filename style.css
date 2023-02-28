@@ -4,12 +4,16 @@ body {
     back
 }
 
-.top-banner {
+.flexible-container {
 
     display: flex;
 
 
+
 }
+
+
+
 
 .pho {
     width: 400px;
@@ -21,16 +25,13 @@ body {
     font-size: 20px;
     width: 50%;
     height: 40%%;
-    background-image: url(9150.png_300.png);
-    background-repeat: no-repeat;
-
-    background-size: 200px;
 
 
 }
 
-.top-web {
+.flexible-container {
     display: flex;
+    margin-bottom: 80px;
 }
 
 .murgi {
