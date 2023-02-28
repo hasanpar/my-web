@@ -12,6 +12,10 @@ body {
 
 }
 
+.vargin {
+    color: rgb(193, 129, 10);
+}
+
 
 
 
@@ -24,9 +28,19 @@ body {
 .arif {
     font-size: 20px;
     width: 50%;
-    height: 40%%;
+    height: 40%;
+}
 
+.hasan {
+    width: 50%;
 
+    box-shadow: 10px 10px 30px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 2%;
+    padding-right: 2%;
+    border-radius: 10px;
+    border-left: 5px solid blue;
 }
 
 .flexible-container {
@@ -55,4 +69,8 @@ body {
 
 .five {
     font-size: 50px;
+}
+
+footer p {
+    text-align: center;
 }
